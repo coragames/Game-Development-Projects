@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 12bdd1d4e1f35564e8bee696d789c10d
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/CompleteGame/VFX/PlayerDamage/VFX_DamagePlayer.vfx
+  uploadId: 562291

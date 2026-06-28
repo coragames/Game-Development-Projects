@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 324c3041a58fde941a2aa8f47da5eda1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/Tutorial/VisualScripts/Samples/DoorAnimation.asset
+  uploadId: 562291

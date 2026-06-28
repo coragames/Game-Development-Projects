@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 43ff02732fe1eb74f8df4233068845b9
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/CompleteGame/VFX/Sparkles/VFX_KeySparkle.vfx
+  uploadId: 562291

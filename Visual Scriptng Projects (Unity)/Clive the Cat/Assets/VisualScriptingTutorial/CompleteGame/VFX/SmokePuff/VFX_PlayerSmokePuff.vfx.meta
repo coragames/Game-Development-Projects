@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c4a94e29d84eb354296fedee66f4882d
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/CompleteGame/VFX/SmokePuff/VFX_PlayerSmokePuff.vfx
+  uploadId: 562291

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: adf1099ccb5032e41b890189a88aa097
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/CompleteGame/Prefabs/Objects/BaseModel/Mushroom
+    Blue.prefab
+  uploadId: 562291

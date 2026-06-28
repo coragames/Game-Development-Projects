@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: DoorButtonScript
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"DoorButton","summary":"Opens
+      the door once button is pressed","pan":{"x":-197.0,"y":15.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-783.0,"y":-311.0},"guid":"a334a373-a2f2-43fa-8d02-210c94fad2be","$version":"A","$type":"EnterCell","$id":"9"},{"argumentCount":0,"defaultValues":{"name":{"$content":"DoorButtonPushed","$type":"System.String"},"target":null},"position":{"x":-488.0,"y":-333.0},"guid":"15d26c62-d610-4b91-964a-b73a7f8db320","$version":"A","$type":"Unity.VisualScripting.TriggerCustomEvent","$id":"11"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"DoorToOpen","$type":"System.String"},"object":null},"position":{"x":-720.0,"y":-177.0},"guid":"084c0cad-1d0e-4e25-b4b9-bf1fb52ac46b","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"13"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"11"},"destinationKey":"enter","guid":"d52ee4fb-4b5f-4ef6-bfd1-1c99dab710a5","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"13"},"sourceKey":"value","destinationUnit":{"$ref":"11"},"destinationKey":"target","guid":"0c913888-8c8e-4547-9197-9c9f986dd898","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []

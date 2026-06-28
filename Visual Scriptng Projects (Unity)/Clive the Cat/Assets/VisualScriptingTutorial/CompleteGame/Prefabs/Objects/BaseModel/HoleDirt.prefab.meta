@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eccd42cab76056246b7e721ec32dab8e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/CompleteGame/Prefabs/Objects/BaseModel/HoleDirt.prefab
+  uploadId: 562291

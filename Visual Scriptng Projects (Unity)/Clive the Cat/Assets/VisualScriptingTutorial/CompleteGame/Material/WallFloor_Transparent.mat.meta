@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fcb7cb1245182ae47a89519143e3c4af
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/CompleteGame/Material/WallFloor_Transparent.mat
+  uploadId: 562291

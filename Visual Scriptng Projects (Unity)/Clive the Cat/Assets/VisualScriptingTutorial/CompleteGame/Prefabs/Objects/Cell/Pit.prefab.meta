@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b946dc05b11da5b45badf9d5eb2b3361
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/CompleteGame/Prefabs/Objects/Cell/Pit.prefab
+  uploadId: 562291

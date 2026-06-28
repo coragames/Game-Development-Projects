@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f54ac7d12ff88624f8a79922f728e45d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/CompleteGame/VisualScripts/TriggerAnimAndSound.asset
+  uploadId: 562291

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 36bd3ff41a7a538488bd5dac983c41ef
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/CompleteGame/Prefabs/Objects/Cell/Spike.prefab
+  uploadId: 562291

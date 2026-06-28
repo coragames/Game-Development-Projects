@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bc554b00dfdfd7843a5e57ca1b6fc852
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/CompleteGame/Prefabs/Objects/Edge/TriggerDoor.prefab
+  uploadId: 562291

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: baf414da12343274b9169b13bb5de611
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/CompleteGame/Prefabs/Theme/Wall1_Leaves.prefab
+  uploadId: 562291

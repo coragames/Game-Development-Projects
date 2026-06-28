@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1499084596b3acc41a7939a5b77bc0e9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/Tutorial/VisualScripts/TrapDoorScript.asset
+  uploadId: 562291

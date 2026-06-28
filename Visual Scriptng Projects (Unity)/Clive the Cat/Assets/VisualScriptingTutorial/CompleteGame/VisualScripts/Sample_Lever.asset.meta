@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 623851cb9d88e2b4ead5cdd8e8d958e3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/CompleteGame/VisualScripts/Sample_Lever.asset
+  uploadId: 562291

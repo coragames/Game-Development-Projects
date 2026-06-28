@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6461a89978a7364aa736fbee6bc5e2d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/CompleteGame/Animations/CatController.controller
+  uploadId: 562291

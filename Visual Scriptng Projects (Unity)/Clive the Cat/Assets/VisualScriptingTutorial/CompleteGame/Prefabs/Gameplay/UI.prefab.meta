@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6bbec47ac23a4924eb2d3b3f0a767f15
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/CompleteGame/Prefabs/Gameplay/UI.prefab
+  uploadId: 562291

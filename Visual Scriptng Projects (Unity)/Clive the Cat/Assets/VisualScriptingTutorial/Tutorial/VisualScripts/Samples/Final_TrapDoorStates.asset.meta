@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd9d7d1e7332390479c701ae3b4ea145
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/Tutorial/VisualScripts/Samples/Final_TrapDoorStates.asset
+  uploadId: 562291

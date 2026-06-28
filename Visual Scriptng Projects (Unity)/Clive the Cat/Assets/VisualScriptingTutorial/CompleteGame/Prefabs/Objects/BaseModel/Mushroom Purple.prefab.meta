@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 818a328a6d95be64dba547751f5b0f9e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/CompleteGame/Prefabs/Objects/BaseModel/Mushroom
+    Purple.prefab
+  uploadId: 562291

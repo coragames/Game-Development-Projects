@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6ce45e77836dbf845aa89f455094eb8d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/CompleteGame/Prefabs/Objects/BaseModel/tree.prefab
+  uploadId: 562291

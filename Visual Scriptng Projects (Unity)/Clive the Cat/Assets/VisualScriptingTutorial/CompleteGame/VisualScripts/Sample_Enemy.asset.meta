@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0c1b31b1614d555488d2ab454b8c6564
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/CompleteGame/VisualScripts/Sample_Enemy.asset
+  uploadId: 562291

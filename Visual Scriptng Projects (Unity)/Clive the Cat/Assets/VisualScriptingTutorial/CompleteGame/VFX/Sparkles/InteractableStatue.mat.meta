@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d1c8b00169d9d84e83b7fb52422ee2c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/CompleteGame/VFX/Sparkles/InteractableStatue.mat
+  uploadId: 562291

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8705d44670a84d147b441dd0d1ab98c3
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/CompleteGame/VFX/SmokePuff/VFX_CrateMovingPuff.vfx
+  uploadId: 562291

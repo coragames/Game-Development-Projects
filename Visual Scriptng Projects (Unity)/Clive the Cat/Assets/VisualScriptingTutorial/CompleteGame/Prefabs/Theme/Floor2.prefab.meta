@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b2647ade886c3ae41adf0ff966ba0ed6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/CompleteGame/Prefabs/Theme/Floor2.prefab
+  uploadId: 562291

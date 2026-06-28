@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f2803ef8e40ab064c8bfd0ff6cfc3182
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/CompleteGame/Material/StatueKing.mat
+  uploadId: 562291

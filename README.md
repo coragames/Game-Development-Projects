@@ -8,9 +8,16 @@ Each project is organized into its own folder and contains its own source code, 
 
 ## Projects
 
-| Project     | Engine | Status         | Description                      |
-| ----------- | ------ | -------------- | -------------------------------- |
-| Coming Soon | -      | In Progress    | New projects will be added here. |
+| Project           | Engine | Status         | 
+| ----------------- | ------ | -------------- | 
+| Roll it to Hearts | Unity  | Published      | 
+| Roguelike         | Unity  | Published      |
+| Shoot & Shout     | Unity  | Published      |
+| Tanks             | Unity  | Published      |
+| MSU Games         | Unity  | Published      |
+| Games with Pygame | Unity  | Ready to publish |
+| Unity Essentials  | Unity  | Ready to publish |
+| Visual Scripting  | Unity  | Ready to publish |
 
 As more projects are completed, this table will be updated with links, descriptions, and screenshots.
 

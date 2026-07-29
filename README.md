@@ -15,7 +15,7 @@ Each project is organized into its own folder and contains its own source code, 
 | Shoot & Shout     | Unity  | Published      |
 | Tanks             | Unity  | Published      |
 | MSU Games         | Unity  | Published      |
-| Zigg ZaGG Game    | Unity  | Published      |
+| Zigg Zagg Game    | Unity  | Published      |
 | Jumping Balls     | Unity  | Published      |
 | Games with Pygame | Unity  | Ready to publish |
 | Unity Essentials  | Unity  | Ready to publish |
